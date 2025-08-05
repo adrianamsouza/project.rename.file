@@ -1,4 +1,4 @@
-# Project.Rename.file
+# project.rename.file
 
 Projeto em C# para renomear arquivos `.csv` de uma pasta origem, movendo-os para uma pasta destino com um novo nome baseado em timestamp.
 
